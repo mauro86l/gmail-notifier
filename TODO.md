@@ -1,5 +1,5 @@
 # TODO
 
-* replace #all with #inbox for mail links
+* point mail links to inbox
 * add 'mark as read'
 * eventually some settings?
